@@ -3,6 +3,9 @@
 
 import random
 
+
+# Python is EZ
+
 # Party data
 party = [
     {'name': 'Tingyun', 'spd': 150, 'cEnergy': 0, 'mEnergy': 130},
